@@ -11,3 +11,29 @@ sitemap: true
 	Thank you for reaching out, we'll read your message and be in contact as soon as possible.
 </p>
  
+<div class="editable">
+		<p>Sewa Motor Jogja</p>
+	</div>
+
+<p class="editor-link"><a href="cloudcannon:collections/_data_motor" class="btn"><strong>&#9998;</strong>Daftar Sewa Motor Jogja</a></p>
+
+<ul class="staff-list">
+	{% for member in site.staff_members %}
+		<li class="staff">
+			<div class="staff-details">
+				<div class="staff-image">
+					<img src="{{ member.image }}" alt="Staff photo for {{ member.name }}" width="120" height="120" />
+				</div>
+				<ul class="staff-info">
+					<li>{{ member.name }}</li>
+					<li><small>{{ member.credentials }}</small></li>
+					<li><a href="tel:{{ site.data.company.contact_phone_number }}">{{ site.data.company.contact_phone_number }}</a>  ext {{ member.phone_extension }}</li>
+				</ul>
+			</div>
+
+			<div class="staff-bio">
+				<p>{{ member.content | markdownify }}</p>
+			</div>
+		</li>
+	{% endfor %}
+</ul>
