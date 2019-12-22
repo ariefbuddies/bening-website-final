@@ -14,3 +14,7 @@
       link: 'http://instagram.com/beningabadi'
       social_icon: Instagram
       new_window: true
+    - name: Whatsapp
+      link:
+      social_icon: Twitter
+      new_window: true
