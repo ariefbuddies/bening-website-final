@@ -60,16 +60,16 @@ header {
 header,
 footer {
 	a {
-		color: #ffffff;
+		color: #3a4145;
 
 		&.active {
-			border-bottom: 2px solid;
+			border-bottom: 5px solid;
 		}
 	}
 }
 
 header a.active {
-	border-bottom: 2px solid;
+	border-bottom: 5px solid;
 }
 
 header,
