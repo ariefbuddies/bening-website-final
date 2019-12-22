@@ -30,7 +30,7 @@ paginate_path: "/advice/:num/"
 
 collections:
   - "staff_members"
-
+  - "data_motor"
 defaults:
   -
     scope:
@@ -60,6 +60,15 @@ defaults:
         image:
           width: 440
           height: 440
+    -
+    scope:
+      path: ""
+      type: "data_motor"
+    values:
+      _options:
+        image:
+          width: 440
+          height: 440  
 
 permalink: pretty
 
