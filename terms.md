@@ -3,7 +3,7 @@ title: Terms
 cta: Contact
 background_image_path:
 large_header: false
-show_in_navigation: true
+show_in_navigation: false
 ---
 
 This is usually where the fine print would go, but here's part of the Wikipedia entry on dogs instead:
