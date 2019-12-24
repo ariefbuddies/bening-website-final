@@ -25,6 +25,9 @@ social:
 
 timezone: Etc/UTC
 
+cloudcannon:
+  data: true
+  
 paginate: 10
 paginate_path: "/advice/:num/"
 
