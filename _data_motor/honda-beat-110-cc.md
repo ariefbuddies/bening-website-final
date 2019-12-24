@@ -1,6 +1,6 @@
 ---
-name: Honda Beat 110 cc
-image: /uploads/3a5d68dacbdee23b6f8a5d8989dbf96c.jpg
+name: <b>Honda Beat 110 cc</b>
+image:
 credentials:
 phone_extension:
 ---
