@@ -28,6 +28,9 @@ timezone: Etc/UTC
 cloudcannon:
   data: true
   
+plugins:
+  - jekyll-seo-tag 
+
 paginate: 10
 paginate_path: "/advice/:num/"
 
