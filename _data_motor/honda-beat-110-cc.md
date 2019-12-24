@@ -1,7 +1,7 @@
 ---
 name: <b>Honda Beat 110 cc</b>
 credentials: Harga Sewa 60 Ribu / 24 jam
-phone_extension: '----------'
+phone_extension:
 ---
 
 ### **![](/uploads/fjimg-20191224-145508.png){: width="440" height="440"} **
