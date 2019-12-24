@@ -15,6 +15,6 @@
       social_icon: Instagram
       new_window: true
     - name: Whatsapp
-      link:
+      link: 'https://api.whatsapp.com/send?phone=6281222226783&text='
       social_icon: Twitter
       new_window: true
