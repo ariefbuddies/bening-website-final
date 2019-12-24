@@ -29,7 +29,10 @@ cloudcannon:
   data: true
   
 plugins:
-  - jekyll-seo-tag 
+  - jekyll-seo-tag
+  
+google_maps_javascript_api_key: "AIzaSyCkJ7Z5hemgqzGLodcAofByopo0aPoRMhE"
+
 
 paginate: 10
 paginate_path: "/advice/:num/"
