@@ -6,7 +6,7 @@ phone_extension: '----------'
 
 > ### **![](/uploads/fjimg-20191224-145508.png){: width="440" height="440"} **
 >
-> ###### **Sewa Motor Murah Per 24 Jam**
+> **Sewa Motor Murah Per 24 Jam**
 
 * 60\.000 (kary/umum)
 
