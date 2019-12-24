@@ -1,6 +1,6 @@
 ---
 title: Tebing breksi Jogja Indonesia
-date:
+date: 2019-12-24 10:45:27
 categories:
   - Property
 author_staff_member: eunha
