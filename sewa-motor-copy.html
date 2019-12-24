@@ -1,0 +1,35 @@
+---
+title: Sewa Motor
+call_to_action:
+background_image_path:
+large_header: false
+show_in_navigation: true
+sitemap: true
+---
+
+<p class="editable">
+	Tempat persewaan motor paling murah se jogja dab!!
+</p>
+ 
+<div class="editable">
+		<p>Sewa Motor Jogja</p>
+	</div>
+
+<p class="editor-link"><a href="cloudcannon:collections/_data_motor" class="btn"><strong>&#9998;</strong>Daftar Sewa Motor Jogja</a></p>
+
+<ul class="staff-list">
+	{% for member in site.data_motor %}
+		<li class="staff">
+			<div class="staff-details">
+				<ul class="staff-info">
+					<li>{{ member.name }}</li>
+					<li><small>{{ member.credentials }}</small></li>
+				</ul>
+			</div>
+
+			<div class="staff-bio">
+				<p>{{ member.content | markdownify }}</p>
+			</div>
+		</li>
+	{% endfor %}
+</ul>
