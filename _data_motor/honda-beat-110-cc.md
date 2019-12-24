@@ -1,6 +1,5 @@
 ---
 name: <b>Honda Beat 110 cc</b>
-image:
 credentials: Harga Sewa 60 Ribu / 24 jam
 phone_extension: '----------'
 ---
