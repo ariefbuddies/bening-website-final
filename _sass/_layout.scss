@@ -20,7 +20,7 @@ header {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: calc(100% - 40px) 10px;
-	height: 250px;
+	height: 300px;
 	box-sizing: border-box;
 
 	.container {
@@ -29,7 +29,7 @@ header {
 
 	@media (min-width: $mobile-break) {
 		background-size: cover;
-		background-position: calc(50% - 300px) calc(100% + 20px);
+		background-position: calc(50% - 300px) calc(10% + 20px);
 
 		&.main-hero {
 			height: 20vh;
