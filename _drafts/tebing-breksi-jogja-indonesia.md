@@ -4,7 +4,7 @@ date:
 categories:
   - Property
 author_staff_member: eunha
-image: /uploads/12-57-06-78914696-2318609688244826-3016406569121765107-n.jpg
+image: /uploads/12-57-22-75312611-832150273909991-646351394687099598-n.jpg
 large_header: false
 ---
 
