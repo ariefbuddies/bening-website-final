@@ -1,8 +1,8 @@
 ---
 name: <b>Honda Beat 110 cc</b>
 image:
-credentials:
-phone_extension:
+credentials: Harga Sewa 60 Ribu / 24 jam
+phone_extension: '----------'
 ---
 
 > * **Harga Sewa Motor Murah Per 24 Jam**
