@@ -29,7 +29,7 @@ header {
 
 	@media (min-width: $mobile-break) {
 		background-size: cover;
-		background-position: calc(50% - 300px) calc(10% + 20px);
+		background-position: calc(50% - 100px) calc(10% + 20px);
 
 		&.main-hero {
 			height: 20vh;
@@ -51,7 +51,7 @@ header {
 
 			li {
 				display: inline-block;
-				margin: 0 10px;
+				margin: 0 20px;
 			}
 		}
 	}
