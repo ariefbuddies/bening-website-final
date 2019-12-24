@@ -4,8 +4,13 @@ credentials: Harga Sewa 60 Ribu / 24 jam
 phone_extension: '----------'
 ---
 
-> * **Harga Sewa Motor Murah Per 24 Jam**
+> ### **Harga Sewa Motor Murah Per 24 Jam**
 >
-> 60\.000 (kary/umum)<br>50\.000 (mahasiswa jogja)<br>Max 2 helm per 1 motor<br>Free pengantaran dan pengambilan di area kota (stasiun dan hotel)<br>Jas hujan (selama persediaan masih ada)
+>
+> * ###### 60\.000 (kary/umum)
+> * ###### 50\.000 (mahasiswa jogja)
+> * ###### Max 2 helm per 1 motor
+> * ###### Free pengantaran dan pengambilan di area kota (stasiun dan hotel)
+> * ###### Jas hujan (selama persediaan masih ada)
 
-![](/uploads/naya-badge.jpg){: width="839" height="398"}
+&nbsp;
