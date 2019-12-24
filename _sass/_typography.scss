@@ -39,8 +39,8 @@ h4,
 h5,
 h6 {
 	margin: 0;
-	letter-spacing: 0.18em;
-	line-height: 1.5;
+	letter-spacing: 0.28em;
+	line-height: 1;
 
 	&:not(:first-child) {
 		margin-top: 2.2em;
@@ -71,11 +71,11 @@ h4 {
 }
 
 h5 {
-	font-size: 2rem;
+	font-size: 1rem;
 }
 
 h6 {
-	font-size: 2rem;
+	font-size: 1rem;
 }
 
 a {
