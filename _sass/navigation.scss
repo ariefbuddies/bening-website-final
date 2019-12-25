@@ -1,7 +1,7 @@
 nav {
 	position: fixed;
 	width: 70%;
-	display: fixed;
+	display: flex;
 	justify-content: center;
 	background: rgba(255, 255, 255, .9);
 	z-index: 999;
@@ -13,7 +13,7 @@ nav {
 		color: #444;
 		text-transform: uppercase;
 		letter-spacing: 1px;
-		font-size: .5em;
+		font-size: .4em;
 
 		&.active {
 			color: #888;
