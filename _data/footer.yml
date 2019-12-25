@@ -4,11 +4,11 @@
       link: /contact/
 - title:
   links:
-    - name: Facebook
+    - name: <b>Facebook</b>
       link: 'http://facebook.com/beningabaditransport'
       social_icon: Facebook
       new_window: true
-    - name: Instagram
+    - name: <b>Instagram</b>
       link: 'http://instagram.com/beningabadi'
       social_icon: Instagram
       new_window: true
