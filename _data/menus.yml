@@ -6,7 +6,7 @@ header:
   - url: /sewa-motor
     title: sewa motor
     identifier: Motor
-    - url: /rental-mobil
+  - url: /rental-mobil
     title: rental-mobil
     identifier: mobil
   - url: /penginapan
