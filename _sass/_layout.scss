@@ -29,11 +29,11 @@ header {
 
 	@media (min-width: $mobile-break) {
 		background-size: cover;
-		background-position: calc(100% - 40px) calc(100% + 40px);
+		background-position: calc(80% - 40px) calc(100% + 40px);
 
 		&.main-hero {
 			height: 120vh;
-			background-position: calc(100% - 15px) calc(90% + 40px);
+			background-position: calc(80% - 15px) calc(90% + 40px);
 		}
 
 		.container {
@@ -42,7 +42,7 @@ header {
 	}
 
 	nav {
-		max-width: 120%;
+		max-width: 100%;
 
 		ul {
 			list-style: circle;
