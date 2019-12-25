@@ -17,7 +17,6 @@
       social_icon: Whatsapp
       new_window: true
     - name: <b>WA 0818267444</b>
-link: 'https://api.whatsapp.com/send?phone=62818267443&text='
- link: 'https://api.whatsapp.com/send?phone=62818267443&text='
+      link: 'https://api.whatsapp.com/send?phone=62818267443&text='
       social_icon: Whatsapp
       new_window: true
