@@ -30,7 +30,6 @@ cloudcannon:
   
 plugins:
   - jekyll-seo-tag
-  - jekyll-paginate
 
   
 
