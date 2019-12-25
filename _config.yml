@@ -28,13 +28,6 @@ timezone: Etc/UTC
 cloudcannon:
   data: true
   
-plugins:
-
-
-  
-
-
-
 paginate: 10
 paginate_path: "/advice/:num/"
 
