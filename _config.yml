@@ -33,7 +33,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   
-google_maps_javascript_api_key:
+
 
 
 paginate: 10
