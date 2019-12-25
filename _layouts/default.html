@@ -27,7 +27,13 @@
 	<body>
 		<header style="background-image: url('{% include relative-src.html src=page.background_image_path %}');" {% if page.large_header %}class="main-hero"{% endif %}>
 			<div class="container">
-					
+				<ul>
+{% for item in site.menus.header %}
+  <li class="menu-item-{{ loop.index }}">
+    <a href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
+  </li>
+{% endfor %}
+</ul>	
 			
 			</div>
 		</header>
