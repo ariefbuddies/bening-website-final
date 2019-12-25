@@ -1,6 +1,9 @@
 ---
 header:
-  - url: /api
-    title: API Documentation
-    identifier: api
+  - url: /BAT
+    title: Home
+    identifier: Home
+  - url: /sewa-motor
+    title: sewa motor
+    identifier: Motor
 ---
