@@ -4,7 +4,7 @@ image:
 credentials: 325K / HARI (LEPAS KUNCI)
 ---
 
-![](/uploads/calya.jpg){: width="300" height="225"}
+> ![](/uploads/calya.jpg){: width="300" height="225"}
 
 **HARGA SEWA**
 
