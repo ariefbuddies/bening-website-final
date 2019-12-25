@@ -30,6 +30,8 @@ cloudcannon:
   
 plugins:
   - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
   
 google_maps_javascript_api_key: "AIzaSyCkJ7Z5hemgqzGLodcAofByopo0aPoRMhE"
 
