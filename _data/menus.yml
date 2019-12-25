@@ -12,7 +12,7 @@ header:
   - url: /penginapan
     title: penginapan
     identifier: kamar
-  - url: /obyek-wisata-jogja
+  - url: /objek-wisata-jogja
     title: obyek-wisata-jogja
     identifier: wisata
 ---
