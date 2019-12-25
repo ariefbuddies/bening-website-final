@@ -1,9 +1,19 @@
 ---
 header:
-  - url: /BAT
+  - url: /
     title: Home
     identifier: Home
   - url: /sewa-motor
-    title: Sewa Motor
+    title: sewa motor
     identifier: Motor
+    - url: /rental-mobil
+    title: rental mobil
+    identifier: mobil
+  - url: /penginapan
+    title: penginapan
+    identifier: kamar
+  - url: /obyek-wisata-jogja
+    title: obyek-wisata-jogja
+    identifier: wisata
+        
 ---
