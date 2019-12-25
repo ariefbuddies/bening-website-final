@@ -40,6 +40,8 @@ paginate_path: "/advice/:num/"
 collections:
   - "staff_members"
   - "data_motor"
+  - "data_mobil"
+  - "data_kamar"
 defaults:
   -
     scope:
@@ -78,12 +80,30 @@ defaults:
         image:
           width: 440
           height: 440  
-
+  -
+    scope:
+      path: ""
+      type: "data_mobil"
+    values:
+      _options:
+        image:
+          width: 440
+          height: 440
+  -
+    scope:
+      path: ""
+      type: "data_kamar"
+    values:
+      _options:
+        image:
+          width: 440
+          height: 440     
 permalink: pretty
 
 jekyll-archives:
   enabled:
     - categories
+    - tags
 
 plugins:
   - jekyll-archives
