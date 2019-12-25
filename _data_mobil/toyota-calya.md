@@ -2,7 +2,6 @@
 name: Toyota Calya
 image:
 credentials: 325K / HARI (LEPAS KUNCI)
-phone_extension:
 ---
 
 ![](/uploads/calya.jpg){: width="300" height="225"}
