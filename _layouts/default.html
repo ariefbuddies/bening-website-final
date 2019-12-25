@@ -23,11 +23,11 @@
 			<script async src='https://www.google-analytics.com/analytics.js'></script>
 		{% endif %}
 	</head>
-
+{% include navigation.html %}
 	<body>
 		<header style="background-image: url('{% include relative-src.html src=page.background_image_path %}');" {% if page.large_header %}class="main-hero"{% endif %}>
 			<div class="container">
-				{% include navigation.html %}	
+					
 				<nav>
 					<ul>
 						{% assign nav_pages = site.html_pages | where: 'show_in_navigation', true | sort: 'navigation_order' %}
