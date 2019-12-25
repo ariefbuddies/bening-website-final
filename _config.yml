@@ -29,7 +29,7 @@ cloudcannon:
   data: true
   
 plugins:
-  - jekyll-seo-tag
+
 
   
 
