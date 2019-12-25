@@ -19,22 +19,23 @@ body {
 header {
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: calc(80% - 10px) 10px;
-	height: 90px;
+	background-position: calc(50% - 40px) 175px;
+	height: 420px;
 	box-sizing: border-box;
 
 	.container {
-		text-align: left;
+		text-align: center;
 	}
 
 	@media (min-width: $mobile-break) {
-		background-size: cover;
-		background-position: calc(80% - 40px) calc(100% + 40px);
+		background-size: contain;
+		background-position: calc(50% - 300px) calc(100% + 20px);
 
 		&.main-hero {
-			height: 50vh;
-			background-position: calc(80% - 15px) calc(90% + 40px);
+			height: 80vh;
+			background-position: calc(50% - 350px) calc(100% + 20px);
 		}
+
 
 		.container {
 			text-align: left;
