@@ -67,7 +67,7 @@ h3 {
 }
 
 h4 {
-	font-size: 2.5rem;
+	font-size: .5rem;
 }
 
 h5 {
@@ -81,7 +81,7 @@ h6 {
 a {
 	color: #4489b1;
 	transition: color 0.2s ease;
-	text-decoration: none;
+	text-decoration: italic;
 
 	&:hover {
 		color: #73a9c9;
