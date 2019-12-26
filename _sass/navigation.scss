@@ -3,13 +3,13 @@ nav {
 	width: 90%;
 	display: flex;
 	justify-content: center;
-	background: rgba(255, 255, 255, .8);
+	background: rgba(255, 255, 255, .5);
 	z-index: 999;
 
 	a {
 		display: inline-block;
 		text-decoration: bold;
-		padding: 2px 20px;
+		padding: 10px 10px;
 		color: #444;
 
 		letter-spacing: 1px;
