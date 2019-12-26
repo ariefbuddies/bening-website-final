@@ -5,7 +5,7 @@ credentials: 200 Ribu Per Malam
 phone_extension:
 ---
 
-![](/uploads/content-5b18a82fb5c8e-e1560855835374.jpg){: width="150" height="113"}
+> ![](/uploads/content-5b18a82fb5c8e-e1560855835374.jpg){: width="150" height="113"}
 
 **Harga Sewa : Rp. 200.000 / Malam (harga untuk 2 orang)**
 
