@@ -1,6 +1,6 @@
 nav {
 	position: fixed;
-	width: 100%;
+	width: 75%;
 	display: flex;
 	justify-content: center;
 	background: rgba(255, 255, 255, .9);
@@ -9,7 +9,7 @@ nav {
 	a {
 		display: inline-block;
 		text-decoration: bold;
-		padding: 5px 1px;
+		padding: 5px 10px;
 		color: #444;
 
 		letter-spacing: 1px;
