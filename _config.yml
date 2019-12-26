@@ -132,6 +132,17 @@ social_icons:
   - YouTube
   - RSS
   - Whatsapp
+url: https://cuddly-suitcase.cloudvent.net/
+sitemap:
+    filename: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts:
+        - "/index.html"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
 
 _comments:
   large_header: Toggles the size of the top banner.
