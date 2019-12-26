@@ -16,7 +16,31 @@ body {
 	border-radius: 20px;
 }
 
+header {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: calc(10% - 10px) 15px;
+	height: 50px;
+	box-sizing: border-box;
 
+	.container {
+		text-align: center;
+	}
+
+	@media (min-width: $mobile-break) {
+		background-size: contain;
+		background-position: calc(10% - 3px) calc(80% + 20px);
+
+		&.main-hero {
+			height: 80vh;
+			background-position: calc(10% - 3px) calc(80% + 20px);
+		}
+
+
+		.container {
+			text-align: left;
+		}
+	}
 
 	nav {
 		max-width: 100%;
