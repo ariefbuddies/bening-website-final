@@ -132,7 +132,7 @@ social_icons:
   - YouTube
   - RSS
   - Whatsapp
-url: https://cuddly-suitcase.cloudvent.net/
+url: https://cuddly-suitcase.cloudvent.net
 sitemap:
     filename: "/sitemap.xml"
     exclude:
