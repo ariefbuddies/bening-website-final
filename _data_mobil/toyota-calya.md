@@ -10,15 +10,15 @@ credentials: 325K / HARI (LEPAS KUNCI)
 
 LEPAS KUNCI
 
-* 12 Jam275.000
-* 24 Jam325.000
+* 12 Jam 275.000
+* 24 Jam 325.000
 
 Mobil + Driver
 
-* 10 Jam350.000
-* Per Hari450.000
+* 10 Jam 350.000
+* Per Hari 450.000
 
 Mobil + Driver + BBM
 
-* 10 Jam450.000
-* Per Hari500.000
+* 10 Jam 450.000
+* Per Hari 500.000
