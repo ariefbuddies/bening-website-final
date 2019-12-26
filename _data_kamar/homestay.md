@@ -9,7 +9,7 @@ phone_extension:
 
 **Harga Sewa 1 Rumah 2 Lantai : 550.000/malam (maximal 10 orang)**
 
-> Cek In : 13.00 WIB Cek Out : 12.00 WIB<br>Fasilitas :
+> #### Cek In : 13.00 WIB Cek Out : 12.00 WIB<br>Fasilitas :
 
 * #### 3 Kamar Tidur AC
 * #### 1 Kamar Musholla
