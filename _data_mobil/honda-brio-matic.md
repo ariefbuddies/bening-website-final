@@ -6,9 +6,9 @@ credentials: HONDA BRIO MATIC 325K / HARI (L. KUNCI)
 
 ![](/uploads/brio.jpg){: width="650" height="450"}
 
-HARGA SEWA &nbsp; &nbsp;
+#### HARGA SEWA
 
-LEPAS KUNCI &nbsp; &nbsp;
+#### LEPAS KUNCI &nbsp; &nbsp;
 
-* 12 Jam &nbsp; &nbsp;275.000
-* 24 Jam &nbsp; &nbsp;325.000<br>&nbsp;
+* #### 12 Jam &nbsp; &nbsp;275.000
+* #### 24 Jam &nbsp; &nbsp;325.000
