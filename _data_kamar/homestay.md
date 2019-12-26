@@ -11,11 +11,11 @@ phone_extension:
 
 > Cek In : 13.00 WIB Cek Out : 12.00 WIB<br>Fasilitas :
 
-* 3 Kamar Tidur AC
-* 1 Kamar Musholla
-* TV Di Setiap Kamar Tidur
-* 2 Kamar Mandi Luar
-* 1 Ruang Tamu
-* 1 Ruang Keluarga Dengan LCD TV Dan Ruang Makan
-* Dapur Dengan Peralatan Dapur Yang Lengkap
-* Garasi
+* #### 3 Kamar Tidur AC
+* #### 1 Kamar Musholla
+* #### TV Di Setiap Kamar Tidur
+* #### 2 Kamar Mandi Luar
+* #### 1 Ruang Tamu
+* #### 1 Ruang Keluarga Dengan LCD TV Dan Ruang Makan
+* #### Dapur Dengan Peralatan Dapur Yang Lengkap
+* #### Garasi
