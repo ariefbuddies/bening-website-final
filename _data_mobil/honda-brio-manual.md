@@ -10,15 +10,15 @@ credentials: 300k / Hari (L. Kunci)
 
 #### LEPAS KUNCI
 
-* #### 12 Jam250.000
-* #### 24 Jam300.000
+* #### 12 Jam 250 ribu
+* #### 24 Jam 300 ribu
 
 #### Mobil + Driver
 
-* #### 10 Jam350.000
-* #### Per Hari450.000
+* #### 10 Jam 350 ribu
+* #### Per Hari 450 ribu
 
 #### Mobil + Driver + BBM
 
-* #### 10 Jam450.000
-* #### Per Hari500.000
+* #### 10 Jam 450 ribu
+* #### Per Hari 500 ribu
