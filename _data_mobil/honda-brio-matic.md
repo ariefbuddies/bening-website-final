@@ -10,5 +10,5 @@ credentials: 325K / HARI (L. KUNCI)
 
 #### LEPAS KUNCI &nbsp; &nbsp;
 
-* #### 12 Jam &nbsp; &nbsp;275.000
-* #### 24 Jam &nbsp; &nbsp;325.000
+* #### 12 Jam 275 ribu
+* #### 24 Jam 325 ribu
