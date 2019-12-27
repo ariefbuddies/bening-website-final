@@ -4,7 +4,7 @@ image: 'https://placehold.it/440/440?a=.png'
 credentials: 350k / Hari (L. Kunci)
 ---
 
-![](/uploads/veloz.jpg){: width="650" height="450"}
+> ![](/uploads/veloz.jpg){: width="650" height="450"}
 
 #### **HARGA SEWA**
 
