@@ -3,7 +3,8 @@
 
 title: Bening Abadi Transport Jogja
 
-baseurl: https://beningabaditransport.com
+baseurl:
+url: https://beningabaditransport.com
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
