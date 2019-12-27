@@ -1,5 +1,5 @@
 ---
-name: TOYOTA CALYA
+name: Toyota Calya
 image:
 credentials: 325K / HARI (LEPAS KUNCI)
 ---
