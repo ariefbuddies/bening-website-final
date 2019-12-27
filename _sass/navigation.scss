@@ -1,5 +1,4 @@
 nav {
-	@media (min-width: $mobile-break)
 	position: fixed;
 	width: 960px;
 	display: fixed;
@@ -8,6 +7,7 @@ nav {
 	z-index: 999;
 
 	a {
+		@media (min-width: $mobile-break)
 		display: inline-block;
 		text-decoration: bold;
 		padding: 2px 2px;
