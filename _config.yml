@@ -3,7 +3,7 @@
 
 title: Bening Abadi Transport Jogja
 
-baseurl: 
+baseurl: https://beningabaditransport.com
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
@@ -132,7 +132,7 @@ social_icons:
   - YouTube
   - RSS
   - Whatsapp
-url: https://cuddly-suitcase.cloudvent.net
+url: https://beningabaditransport.com
 
 _comments:
   large_header: Toggles the size of the top banner.
