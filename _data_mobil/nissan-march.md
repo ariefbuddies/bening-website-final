@@ -9,7 +9,7 @@ credentials: 300k / Hari (L. Kunci)
 > #### LEPAS KUNCI
 >
 >
-> * #### 12 Jam 250 Ribu
-> * #### 24 Jam 300 Ribu
+> * #### 12 Jam 250 ribu
+> * #### 24 Jam 300 ribu
 >
 > ![](/uploads/march.jpg){: width="650" height="450"}
