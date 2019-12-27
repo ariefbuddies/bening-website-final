@@ -4,7 +4,7 @@ credentials: ✓ 50 RB MAHASISWA ✓ 70 RB UMUM
 phone_extension:
 ---
 
-> ![](/uploads/vario.png){: width="440" height="440"}
+> ![](/uploads/vario.jpg){: width="440" height="440"}
 
 #### **Sewa Motor Murah Per 24 Jam**
 
