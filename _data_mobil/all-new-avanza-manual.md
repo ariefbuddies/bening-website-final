@@ -1,5 +1,5 @@
 ---
-name: ALL NEW AVANZA MANUAL
+name: All New Avanza Manual
 image: 'https://placehold.it/440/440?a=.png'
 credentials: 300K / HARI (L. KUNCI)
 ---
