@@ -22,15 +22,3 @@
       link: 'https://api.whatsapp.com/send?phone=62818267443&text='
       social_icon: Whatsapp
       new_window: true
-- title: Cabang Janturan Yogyakarta
-  links:
-    - name: Cabang Janturan Yogyakarta
-      link: /advice/
-      social_icon:
-      new_window: false
-- title: Cabang Gamping Yogyakarta
-  links:
-    - name: Cabang Janturan Yogyakarta
-      link: /advice/
-      social_icon:
-      new_window: false
