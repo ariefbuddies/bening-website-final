@@ -4,6 +4,7 @@
     {% if link.link == page.url %}
 			{% assign class = class | append: " active" %}
 		{% endif %}
-		<a href="{% include relative-src.html src=link.link %}" class="{{ class }}">{{ link.name }}</a>
+		<div class="font-effect-shadow-multiple">
+		<a href="{% include relative-src.html src=link.link %}" class="{{ class }}">{{ link.name }}</a><div>
 	{% endfor %}
 </nav>
