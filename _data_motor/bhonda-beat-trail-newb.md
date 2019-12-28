@@ -5,8 +5,7 @@ phone_extension:
 ---
 
 > ![](/uploads/beat-trail.jpg){: width="440" height="440"}
->
->
+
 > #### **Harga Sewa Motor Murah Per 24 Jam**
 >
 >
