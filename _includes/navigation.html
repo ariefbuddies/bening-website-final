@@ -1,10 +1,10 @@
 <nav>
-https://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple	
 	{% for link in site.data.navigation %}
 	{% assign class = "" %}
     {% if link.link == page.url %}
 			{% assign class = class | append: " active" %}
 		{% endif %}
+		https://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple
 		<div class="font-effect-shadow-multiple">
 		<a href="{% include relative-src.html src=link.link %}" class="{{ class }}">{{ link.name }}</a<div>
 	{% endfor %}
