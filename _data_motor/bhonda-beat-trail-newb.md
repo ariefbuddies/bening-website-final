@@ -1,5 +1,5 @@
 ---
-name: <b>HONDA BEAT TRAIL NEW</b>
+name: <b>HONDA BEAT STREET NEW</b>
 credentials: ✓ 55 RB MAHASISWA ✓ 65 RB UMUM
 phone_extension:
 ---
