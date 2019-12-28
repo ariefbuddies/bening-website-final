@@ -8,8 +8,8 @@ phone_extension:
 
 #### **Harga Sewa Motor Murah Per 24 Jam**
 
-* #### &nbsp;(kary/umum)
-* #### CALL (mahasiswa jogja)
+* #### 65 ribu (kary/umum)
+* #### 55 ribu (mahasiswa jogja)
 * #### Max 2 helm per 1 motor
 * #### Free pengantaran dan pengambilan di area kota (stasiun dan hotel)
 * #### Jas hujan (selama persediaan masih ada)
