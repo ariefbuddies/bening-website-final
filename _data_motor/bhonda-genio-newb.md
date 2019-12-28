@@ -1,6 +1,6 @@
 ---
 name: <b>HONDA GENIO NEW</b>
-credentials: Harga silahkan call
+credentials: ✓ 55 RB MAHASISWA ✓ 65 RB UMUM
 phone_extension:
 ---
 
@@ -8,7 +8,7 @@ phone_extension:
 
 #### **Harga Sewa Motor Murah Per 24 Jam**
 
-* #### CALL (kary/umum)
+* #### &nbsp;(kary/umum)
 * #### CALL (mahasiswa jogja)
 * #### Max 2 helm per 1 motor
 * #### Free pengantaran dan pengambilan di area kota (stasiun dan hotel)
