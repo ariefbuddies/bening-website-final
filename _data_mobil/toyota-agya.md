@@ -1,7 +1,7 @@
 ---
 name: Toyota Agya
 image: 'https://placehold.it/440/440?a=.png'
-credentials: 300k / Hari (L. Kunci)
+credentials: 300k / hari (Lepas Kunci)
 ---
 
 > ![](/uploads/agya.jpg){: width="300" height="225"}
