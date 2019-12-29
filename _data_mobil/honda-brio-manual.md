@@ -1,7 +1,7 @@
 ---
 name: Honda Brio Manual
 image: 'https://placehold.it/440/440?a=.png'
-credentials: 300k / Hari (L. Kunci)
+credentials: 300k / hari (Lepas Kunci)
 ---
 
 ![](/uploads/brio-manual.jpg){: width="650" height="450"}
