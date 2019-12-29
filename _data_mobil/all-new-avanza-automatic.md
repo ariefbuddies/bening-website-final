@@ -1,7 +1,7 @@
 ---
 name: All New Avanza Automatic
 image: 'https://placehold.it/440/440?a=.png'
-credentials: 350k / Hari (L. Kunci)
+credentials: 350k / hari (Lepas Kunci)
 ---
 
 > ![](/uploads/veloz.jpg){: width="650" height="450"}
