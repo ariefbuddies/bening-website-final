@@ -1,7 +1,7 @@
 ---
 name: All New Avanza Manual
 image: 'https://placehold.it/440/440?a=.png'
-credentials: 300K / HARI (L. KUNCI)
+credentials: 300K / hari (Lepas Kunci)
 ---
 
 ![](/uploads/avanza-manual.jpg){: width="650" height="450"}
