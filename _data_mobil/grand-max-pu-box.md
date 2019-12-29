@@ -1,7 +1,7 @@
 ---
 name: Grand Max PU Box
 image: 'https://placehold.it/440/440?a=.png'
-credentials: 300k / hari
+credentials: 300k / hari (Lepas Kunci)
 ---
 
 > ![](/uploads/content-5b0bed6990b95.jpg){: width="800" height="600"}
