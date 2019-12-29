@@ -1,7 +1,7 @@
 ---
 name: Toyota Calya
 image:
-credentials: 325K / HARI (LEPAS KUNCI)
+credentials: 325K / hari (Lepas Kunci)
 ---
 
 > ![](/uploads/calya.jpg){: width="300" height="225"}
