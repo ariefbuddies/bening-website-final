@@ -9,7 +9,7 @@ html {
 
 body {
 	line-height: 1.4;
-	font-size: 1em;
+	font-size: 2.2em;
 }
 
 body,
@@ -50,10 +50,10 @@ h6 {
 
 h1 {
 	font-size: 1.2rem;
-	line-height: 40px;
+	line-height: 20px;
 	margin: 0 -1px 0 0;
 	@media (min-width: $mobile-break) {
-		line-height: 40px;
+		line-height: 20px;
 		font-size: 1.2rem;
 		text-align: center;
 	}
