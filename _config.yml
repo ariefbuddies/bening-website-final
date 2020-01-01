@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Bening Abadi Transport Jogja
+title: Bening Abadi Transport
 
 baseurl:
 url: https://beningabaditransport.com
@@ -12,7 +12,7 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Sewa Motor Jogja Rental Mobil Yogyakarta Penginapan Murah
-language: ID
+language: id-ID
 
 # -----
 # Build
