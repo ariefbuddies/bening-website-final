@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html lang="id">
+<html>
 	{% for language in page.languages %} <link rel="alternate" hreflang="{{ language }}" href="{{ site.url }}{{ site.baseurl }}{{ page.url | replace_first: page.language, language }}" /> {% endfor %}
 	<head>
 		<meta charset="utf-8" />
