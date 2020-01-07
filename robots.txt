@@ -1,7 +1,3 @@
----
-layout: null
-sitemap: false
----
 User-agent: *
 Disallow: /advice
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: https://beningabaditransport.com/sitemap.xml
